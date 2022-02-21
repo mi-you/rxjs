@@ -5,7 +5,7 @@
 - `interal`
 - `of`
 - `range`
-- throwError`
+- `throwError`
 - `timer`
 ## Join creation Oprators
 - `combineLatest`
